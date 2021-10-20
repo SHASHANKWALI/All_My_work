@@ -1,0 +1,23 @@
+body{
+    background-color: azure; 
+}
+.line{
+    background-color: antiquewhite;
+    height: 8px;
+    width: 70px;
+}
+#apps{
+ background-color: blanchedalmond;
+}
+#games{
+    background-color: beige;
+}
+img{
+    height: 500ox;
+    width: 200px;
+    transition: transform 0.2s;
+    
+}
+img:hover{
+    transform: scale(0.9);
+}
